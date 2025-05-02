@@ -1,7 +1,7 @@
 {
-  "name": "@xzdarcy/react-timeline-editor",
-  "version": "0.1.9",
-  "author": "xzdarcy",
+  "name": "zulu-react-timeline-editor",
+  "version": "0.0.1",
+  "author": "zulu",
   "license": "MIT",
   "keywords": [
     "timeline",
